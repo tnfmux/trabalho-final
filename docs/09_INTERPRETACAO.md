@@ -72,8 +72,9 @@ A leitura dos resultados deve combinar **três camadas**:
    bem o passado e prever mal o futuro (sobreajuste); por isso a palavra final é dada
    pelo erro nos 24 meses de teste, que o modelo **não viu** ao ser estimado.
 
-Concretamente: *para o IPCA cheio, o melhor modelo foi `[___]`, com RMSE de `[___]` e
-MAE de `[___]`; para o núcleo, foi `[___]`, com RMSE de `[___]` e MAE de `[___]`.*
+Concretamente: *para o IPCA cheio, o melhor modelo foi o M6 (SARIMAX + câmbio + Selic
++ IGP-M + Focus), com RMSE de 0,1248 e MAE de 0,0989; para o núcleo, foi o M5 (SARIMAX
++ câmbio + Selic + IGP-M), com RMSE de 0,1253 e MAE de 0,0997.*
 Se as regressoras reduzirem o RMSE em relação ao SARIMA puro, conclui-se que a
 informação macroeconômica **agrega** valor preditivo; se não reduzirem, conclui-se que
 a dinâmica autorregressiva já esgotava o sinal disponível — um resultado igualmente
