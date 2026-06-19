@@ -1,13 +1,5 @@
 # Parte 9 — Texto interpretativo para o relatório e os slides
 
-Parágrafos prontos, em português acadêmico, para serem colados no relatório ou usados
-como roteiro de fala. Onde houver um resultado empírico, deixei **lacunas `[___]`** a
-preencher com os números gerados pelo pipeline — em respeito à regra de **não inventar
-resultados**. O texto é escrito de forma **condicional**, de modo que continua correto
-qualquer que seja o número observado.
-
----
-
 ## 9.1 Por que prever a inflação é relevante
 
 A inflação é uma das variáveis macroeconômicas mais acompanhadas porque organiza
