@@ -1,0 +1,7 @@
+"Serie","ADF_estat","ADF_pvalor","KPSS_estat","KPSS_pvalor","Conclusao"
+"IPCA cheio",-5.269,0.01,0.068,0.1,"Estacionária"
+"Núcleo",-3.22,0.085,0.134,0.1,"Inconclusivo (nenhum teste rejeita H0)"
+"IGP-M",-3.974,0.0108,0.095,0.1,"Estacionária"
+"Variação cambial",-5.932,0.01,0.32,0.1,"Estacionária"
+"Selic meta (nível)",-2.624,0.313,1.257,0.01,"Não-estacionária"
+"Focus IPCA",-5.422,0.01,0.147,0.1,"Estacionária"

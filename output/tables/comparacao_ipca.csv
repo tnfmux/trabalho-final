@@ -1,0 +1,7 @@
+"Modelo","Especificacao","AIC","BIC","RMSE","MAE"
+"M1 ARIMA — IPCA cheio","(1,0,0)",67.6,78.24,0.276,0.2066
+"M2 SARIMA — IPCA cheio","(1,0,0)(0,0,1)[12]",63.85,78.05,0.2661,0.1897
+"M3 SARIMAX + câmbio — IPCA cheio","(1,0,0)(0,0,1)[12]",62.78,80.49,0.2831,0.2069
+"M4 SARIMAX + câmbio + Selic — IPCA cheio","(1,0,0)(0,0,1)[12]",64.78,86.02,0.2831,0.207
+"M5 SARIMAX + câmbio + Selic + IGP-M — IPCA cheio","(1,0,0)(0,0,1)[12]",27.32,52.11,0.2461,0.1771
+"M6 SARIMAX + câmbio + Selic + IGP-M + Focus — IPCA cheio","(1,0,0)",-134.57,-113.32,0.1248,0.0989

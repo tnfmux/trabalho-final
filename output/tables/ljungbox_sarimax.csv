@@ -1,0 +1,9 @@
+"Modelo","LjungBox_pvalor"
+"M3 SARIMAX + câmbio — IPCA cheio",0.4367
+"M4 SARIMAX + câmbio + Selic — IPCA cheio",0.4364
+"M5 SARIMAX + câmbio + Selic + IGP-M — IPCA cheio",0.7055
+"M6 SARIMAX + câmbio + Selic + IGP-M + Focus — IPCA cheio",0.4754
+"M3 SARIMAX + câmbio — Núcleo",0.0492
+"M4 SARIMAX + câmbio + Selic — Núcleo",0.0276
+"M5 SARIMAX + câmbio + Selic + IGP-M — Núcleo",0.0559
+"M6 SARIMAX + câmbio + Selic + IGP-M + Focus — Núcleo",0.0723

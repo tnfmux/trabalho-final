@@ -1,0 +1,8 @@
+"Dimensao","IPCA_cheio","Nucleo"
+"Desvio-padrão (volatilidade)","0.328","0.179"
+"Persistência (ACF lag 1)","0.551","0.822"
+"Melhor RMSE fora da amostra","0.1248","0.1253"
+"Melhor modelo","M6 SARIMAX + câmbio + Selic + IGP-M + Focus — IPCA cheio","M5 SARIMAX + câmbio + Selic + IGP-M — Núcleo"
+"RMSE SARIMA (M2)","0.2661","0.1495"
+"RMSE SARIMAX completo (M6)","0.1248","0.1344"
+"Ganho com regressoras (M2->M6, %)","53.1","10.1"
